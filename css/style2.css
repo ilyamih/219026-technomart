@@ -1,0 +1,179 @@
+              /*общая стилизация*/
+ body {
+	margin: 0;
+	padding: 0;
+	
+	font-family: "PT Sans Narrow", Arial, sans-serif;
+	font-size: 18px;
+	line-height: 17px;
+	/*ont-weight: 700;*/
+	color: black;
+	background-color: #ffffff;
+	background-image: url("img/invalid-name.png");
+	text-transform: uppercase;
+	background-position: top center;
+	background-repeat: no-repeat;
+} 
+
+ /*Шапка ночало*/
+
+.button {
+	font: inherit;
+	font-size: 14px;
+	line-height: 18px;
+	vertical-align: middle;
+	text-transform: uppercase;
+	text-align; center;  
+	color: #ffffff;
+	background-color: #ee3643;
+	border: none;
+}
+	
+
+.button:hover {
+	background-color: #ca2c37;
+}
+.button:focus {
+	background-color: #ee3643;
+}
+.button:active {
+background-color: #ba2732;
+  }		  
+
+.header-top {
+   font-size: 10px;
+   line-height: 28px;    
+   color: #ee3643;
+   background-color: #ffffff;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style: none;
+}
+
+.site-navigation a:hover {
+	color: #212a3a;
+}
+.site-navigation a:focus {
+	color: #293449;
+}
+.site-navigation a:active {
+	color:  #161d29;
+}
+.user-actions a:hover {
+	color: #212a3a;
+}
+.user-actions a:focus {
+	color:#293449;
+}
+.site-navigation a:active {
+    color: #161d29;
+}
+
+.site-navigation a {
+	color: #ffffff;
+}
+.user-actions a {
+	color: #000000;
+}
+.site-information a {
+	color: #ffffff;
+}
+
+.site-navigation { 
+	font-size: 17px;
+	line-height: 18px;
+	background-color: #293449;
+}
+
+.user-actions {
+    font-size: 21px;
+	line-height: 21px;
+	background-color: #ffffff;
+}
+
+.site-information {
+	font-size: 17px;
+	line-height: 17px;
+    background-color: #32425c;
+}
+     /*Особиности*/	 
+
+.features h2 {
+	font-size: 30px;
+	line-height: 30px;
+}	
+ 
+.features p {
+	font-size: 13px;
+	line-height: 24px; 
+	text-align: left;
+} 
+
+.map a {
+	font-size: 14px;
+	line-height: 18px;
+	text-align; center;
+	color: #ffffff;
+	vertical-align: middle;
+    text-transform: uppercase;
+    background-color: #ee3643;
+	background-image: url("img/map@2x.jpg");
+    background-position: 0 0;
+    background-repeat: repeat;
+
+	border: none;
+}
+
+.footer-top {
+	background-color: #32425c;
+}
+
+.tool a{
+	color: #ffd180;
+} 
+
+.footer-top p{
+	color: #f3f7f9;
+}
+ 
+/*.features {
+	color: #000000;
+	 background-color: #f8f5f2;
+    background-image: url("img/map@2x.jpg");
+    background-position: 0 0;
+    background-repeat: repeat;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
